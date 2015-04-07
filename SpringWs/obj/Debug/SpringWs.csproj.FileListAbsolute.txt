@@ -1,0 +1,12 @@
+G:\测试Project\SpringWs\SpringWs\obj\Debug\ResolveAssemblyReference.cache
+G:\测试Project\SpringWs\SpringWs\bin\SpringWs.dll
+G:\测试Project\SpringWs\SpringWs\bin\SpringWs.pdb
+G:\测试Project\SpringWs\SpringWs\bin\Spring.Aop.dll
+G:\测试Project\SpringWs\SpringWs\bin\Spring.Core.dll
+G:\测试Project\SpringWs\SpringWs\bin\Spring.Data.dll
+G:\测试Project\SpringWs\SpringWs\bin\Spring.Services.dll
+G:\测试Project\SpringWs\SpringWs\bin\Spring.Web.dll
+G:\测试Project\SpringWs\SpringWs\bin\Spring.Web.Extensions.dll
+G:\测试Project\SpringWs\SpringWs\obj\Debug\SpringWs.dll
+G:\测试Project\SpringWs\SpringWs\obj\Debug\SpringWs.pdb
+G:\测试Project\SpringWs\SpringWs\bin\Common.Logging.dll
